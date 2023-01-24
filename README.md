@@ -1,2 +1,2 @@
 # OIBSIP
-I designed and developed a Calcultor with basci math functionalities using HTML,CSS,and Javascript.
+I have  designed and developed a Calcultor with basic  math functionalities using HTML,CSS,and Javascript.
