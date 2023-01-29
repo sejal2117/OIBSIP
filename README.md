@@ -1,2 +1,2 @@
 # OIBSIP
-I have  designed and developed a Calcultor with basic  math functionalities using HTML,CSS,and Javascript.
+I have  designed and developed 3 web based app Calcultor with basic  math functionalities, Tribute Page for A.P.J Abdul kalam, To Do List using HTML,CSS,and Javascript.
